@@ -1,0 +1,3 @@
+interface Trees {
+    void growTrees();
+}
